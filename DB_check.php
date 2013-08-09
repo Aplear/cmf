@@ -17,5 +17,8 @@ function __construction(){
 
 }
 
+function select(){
+}
+
 }
 ?>
