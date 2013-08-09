@@ -17,12 +17,8 @@ function __construction(){
 
 }
 
-<<<<<<< HEAD
-function delet($params)
-=======
-function delet($num)
->>>>>>> 548b02d52160a0e4319d51c7a02f652b3f20925a
-}
+function delet($num,$params)
+{
 
 }
 ?>
