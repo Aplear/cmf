@@ -17,7 +17,7 @@ function __construction(){
 
 }
 
-function delet()
+function delet($params)
 }
 
 }
